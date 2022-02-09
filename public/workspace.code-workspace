@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "tacvue",
+			"path": ".."
+		},
+		{
+			"name": "applicants",
+			"path": "../../../applicants"
+		}
+	],
+	"settings": {}
+}
